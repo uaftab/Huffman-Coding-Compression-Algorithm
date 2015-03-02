@@ -1,9 +1,10 @@
 %% Umair Aftab 
-%% behance.net/ua
-%% github.com/umair-a
+%% behance.net/uaftab
+%% github.com/uaftab
 %% 09/11/12
 %% Huffman For Images without any Default Functions
-
+%% Raw Implementation of Algorithm
+%% Matlab
 
 clc 
 clear all 
